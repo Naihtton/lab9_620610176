@@ -32,6 +32,6 @@ int main(){
     }else{
         cout << "Your status = UNFRIEND";
     }
-
+//
 return 0;
 }
